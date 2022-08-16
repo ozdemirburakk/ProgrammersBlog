@@ -1,0 +1,5 @@
+C:\Users\burakozdemir\Desktop\github\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\netcoreapp3.1\ProgrammersBlog.Entities.csproj.AssemblyReference.cache
+C:\Users\burakozdemir\Desktop\github\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\netcoreapp3.1\ProgrammersBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burakozdemir\Desktop\github\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\netcoreapp3.1\ProgrammersBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\burakozdemir\Desktop\github\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\netcoreapp3.1\ProgrammersBlog.Entities.AssemblyInfo.cs
+C:\Users\burakozdemir\Desktop\github\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\netcoreapp3.1\ProgrammersBlog.Entities.csproj.CoreCompileInputs.cache
